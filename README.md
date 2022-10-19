@@ -1,6 +1,6 @@
 # External tree Buildroot Configuration
 
-- remember to execute make with variable BR2_EXTERNAL, for example: $ make BR2_EXTERNAL = ../my-buildroot/myrpi4_defconfig
+- remember to execute make with variable BR2_EXTERNAL, for example: $ make BR2_EXTERNAL=../my-buildroot myrpi4b_defconfig
 
 
 ## delete previous build
